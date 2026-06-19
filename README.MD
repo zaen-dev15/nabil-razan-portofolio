@@ -38,8 +38,8 @@ Coming Soon
 ## Contact
 
 - GitHub: https://github.com/zaen-dev15
-- Instagram: [Your Instagram]
-- Email: [Your Email]
+- Instagram: [@zaengrr.ror]
+- Email: [Zaenadhwa@gmail.com]
 
 ---
 
