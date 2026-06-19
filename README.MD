@@ -43,4 +43,4 @@ Coming Soon
 
 ---
 
-Built with ❤️ by Nabil Razan
+Built with ❤️ by Nabil Razan.
