@@ -33,7 +33,9 @@ Hi, I'm Nabil Razan, a Software Engineering (RPL) student at SMK Negeri 5 Suraka
 
 ## Live Demo
 
-Coming Soon
+https://zaen-dev15.github.io/nabil-razan-portofolio/
+Last deployed by @zaen-dev15 zaen-dev15 yesterday
+
 
 ## Contact
 
